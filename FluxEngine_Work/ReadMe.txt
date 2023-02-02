@@ -20,3 +20,6 @@ Instructions:
 	- basemap-data-hires
 
 3) Ensure all datetime formats are as yyyy-mm-dd hh:mm:ss - especially check if the data has been exported to Excel (or similar software) at any point.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JamieLab/Teaching/main?labpath=Using%20In%20Situ%20Data.ipynb)
