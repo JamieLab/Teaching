@@ -1,9 +1,7 @@
 
-python - 3.8
 numpy 
 pandas 
 matplotlib 
 seaborn 
 datetime 
 netCDF4
-basemap
