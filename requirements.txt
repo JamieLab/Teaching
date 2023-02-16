@@ -1,11 +1,2 @@
 
-numpy
-pandas 
-matplotlib 
-seaborn
-datetime
-netCDF4
-basemap
-python
-       
-
+Python - 3.8
