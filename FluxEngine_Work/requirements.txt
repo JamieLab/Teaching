@@ -1,9 +1,0 @@
-
-
-numpy 
-pandas 
-matplotlib 
-seaborn 
-datetime 
-netCDF4
-basemap
