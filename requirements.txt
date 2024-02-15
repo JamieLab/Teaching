@@ -1,9 +1,0 @@
-
-numpy 
-pandas==1.3.5 
-matplotlib 
-seaborn 
-datetime 
-netCDF4
-basemap
-fluxengine
