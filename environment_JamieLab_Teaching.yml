@@ -1,0 +1,16 @@
+name: JamieLab_Teaching
+channels:
+  - conda-forge
+dependencies:
+  - python == 3.9
+  - numpy == 1.26
+  - pandas
+  - matplotlib
+  - seaborn
+  - netCDF4
+  - basemap
+  - pyarrow
+  - pip
+  - pip:
+    - pyco2sys
+    - fluxengine
