@@ -2,8 +2,8 @@
 
 A selection of iPython Jupyter notebooks are available for teaching. The code is available (via the github directories) and through the ICOS Jupyter cloud system.
 
-ICOS Jupyter system: https://exploredata.icos-cp.eu/hub/login
-Username is: student email address
+ICOS Jupyter system: https://exploredata.icos-cp.eu/hub/login <br/>
+Username is: student email address<br/>
 Password is: francis
 
 # Local setup
