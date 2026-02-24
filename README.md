@@ -2,9 +2,9 @@
 
 A selection of iPython Jupyter notebooks are available for teaching. The code is available (via the github directories) and through the ICOS Jupyter cloud system.
 
-ICOS Jupyter system: https://exploredata.icos-cp.eu/hub/login <br/>
-Username is: student email address (e.g: df391@exeter.ac.uk)<br/>
-Password is: francis
+ICOS Jupyter system: https://exploredata.icos-cp.eu<br/>
+Username is: _your_ student email address (e.g: someone@exeter.ac.uk)<br/>
+Password is: carboncloud
 
 # Local setup
 The conda environment can be setup locally to run the Jupyter notebooks if the ICOS system is unavailable. Steps to follow for this: <br/>
