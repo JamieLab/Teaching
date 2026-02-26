@@ -1,4 +1,4 @@
-# Teaching
+# Ocean Carbon practicals
 
 A selection of iPython Jupyter notebooks are available for teaching. The code is available (via the github directories) and through the ICOS Jupyter cloud system.
 
